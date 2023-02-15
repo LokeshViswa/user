@@ -2,6 +2,6 @@
 
 env.component = "user"
 env.app_lang = "nodejs"
-// env.extraFiles = "schema"
+env.extraFiles = "schema"
 
 ci()
